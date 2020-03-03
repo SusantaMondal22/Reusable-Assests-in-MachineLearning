@@ -1,1 +1,4 @@
-
+This Supevised machine learning modelto predict the likelihood of a liability customer buying personal
+loans.
+Data set used for the modelling is also attached
+Scikit-learn library has beeen used.
