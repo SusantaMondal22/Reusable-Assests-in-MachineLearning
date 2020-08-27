@@ -1,0 +1,9 @@
+
+In this problem, we use a pre-trained model trained on Face recognition to recognize similar faces. Here, we are particularly
+interested in recognizing whether two given faces are of the same person or not.
+
+Data Source used
+
+Image Data : https://drive.google.com/file/d/1AuJ7yQlq3FhRFZy3MK2DwvtxtFgTDP2h/view
+
+Weight Data : https://drive.google.com/file/d/1KeNf2VdIifcTFjT7gAl_uHYqbA0QqwlE/view
